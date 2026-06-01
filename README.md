@@ -8,7 +8,7 @@
 
 # resolucao-desafios-logica
 
-*exercícios de lógica de programação resolvidos no BeeCrowd*
+*exercícios de lógica de programação resolvidos no beecrowd*
 
 <br>
 
@@ -23,8 +23,8 @@
 
 ### ⟡ sobre
 
-Repositório dedicado à prática constante de lógica de programação.
-Todos os exercícios são resolvidos em **Python** e organizados por dificuldade.
+repositório dedicado à prática constante de lógica de programação.
+todos os exercícios são resolvidos em **python 3.11** e organizados por dificuldade.
 
 ---
 
@@ -156,6 +156,6 @@ print(moeda)
 
 ⋆˙⟡ ·˚ ⋆ ·˚ ⟡˙⋆ ·˚ ⋆ ·˚ ⟡˙⋆
 
-*resolvendo um problema por vez ˚*
+*resolvendo um problema por vez*
 
 </div>
