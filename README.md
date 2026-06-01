@@ -154,8 +154,5 @@ print(moeda)
 
 <div align="center">
 
-⋆˙⟡ ·˚ ⋆ ·˚ ⟡˙⋆ ·˚ ⋆ ·˚ ⟡˙⋆
-
-*resolvendo um problema por vez*
 
 </div>
